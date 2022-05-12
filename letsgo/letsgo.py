@@ -15,6 +15,11 @@ mydb = mysql.connector.connect(
 
 mycursor = mydb.cursor(buffered=True)
 
+companyCursor = mydb.cursor(buffered=True)
+companyCursor.execute("SELECT OndernemingsNr FROM KMO NO LIMIT")
+companyNumbers = companyCursor.fetchall()
+
+
 
 
 def readFile(fileName):
@@ -118,6 +123,8 @@ for key in list(d.keys()):
     kv = d[key]
     for row in id:
         idn = row
+    if kv == 0:
+        kv = 1
     val = (idn, number, kv)
 
     for row in id:
@@ -127,13 +134,10 @@ for key in list(d.keys()):
     else:
         d[key] = 1
         print('term:', key, "\naantal:", d[key])
+
+
     mycursor.execute(cmd, val)
 
-
-mycursor.execute("""SELECT * FROM KMO WHERE OndernemingsNr = '%s'""" % (number))
 mydb.commit()
-myresult = mycursor.fetchall()
-
-print(myresult)
 
 mycursor.close()
