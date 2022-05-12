@@ -5,6 +5,7 @@ import PyPDF2
 import mmap
 import mysql.connector
 import os
+import tempfile
 pdf_path = ""
 
 mydb = mysql.connector.connect(
@@ -39,14 +40,14 @@ def download_file(download_url, filename):
     file.close()
 
 
-
+filenum = 0
 for n in companyNumbers:
     for i in n:
         number = "0"+str(i)
 
     print(number)
     url = f'https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer={number}'
-    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}, )
     webpage = urlopen(req).read()
     page_soup = soup(webpage, "html.parser")
     thesoup = page_soup.findAll('td', class_='data')
@@ -62,31 +63,31 @@ for n in companyNumbers:
         linkElement = year2020.findNext('a')
         link = linkElement['href']
     except NameError:
-        print("This company number doesn't exist")
-        exit()
+        print("IP BANNED")
+        continue
 
-    print('Jaarrekening: ', link)
+
     download_file(link, './pdf/jaarrekening')
-    print('File downloaded')
+
 # creating a pdf file object
     pdfFileObj = open('./pdf/jaarrekening.pdf', 'rb')
 # creating a pdf reader object
     pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 # printing number of pages in pdf file
-    print('Pages: ' + str(pdfReader.numPages))
-    txtfile = open("Jaarrekening%s.txt"%number, 'w+', encoding="utf-8")
 
-    for x in range(pdfReader.numPages):
-        p = pdfReader.getPage(x)
-        t = p.extractText()
-        txtfile.write(t)
-    txtfile.close()
+    with open("Jaarrekening%s.txt"%filenum, 'w+', encoding="utf-8") as txtfile:
+
+        for x in range(pdfReader.numPages):
+            p = pdfReader.getPage(x)
+            t = p.extractText()
+            txtfile.write(t)
+
 # closing the pdf file object
     pdfFileObj.close()
 
     keywords = readFile('./txt/zoektermen.txt')
 
-    with open('Jaarrekening%s.txt'%number)  as f:
+    with open('Jaarrekening%s.txt'%filenum) as f:
         s = mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ)
         hits = 0
         wordsFound = []
@@ -94,23 +95,23 @@ for n in companyNumbers:
             if s.find(bytes(x, 'utf-8')) != -1:
                 hits += 1
                 wordsFound.append(x)
-    print('Number of keywords found:' + str(hits))
-    print('Hits:')
+
+
 # Open the file in read mode
-    text = open("Jaarrekening%s.txt" %number, "r", encoding="utf-8")
+    with open("Jaarrekening%s.txt" %filenum, "r", encoding="utf-8") as text:
 # Create an empty dictionary
-    d = dict()
-    for w in wordsFound:
-        d[w] = 0
+        d = dict()
+        for w in wordsFound:
+            d[w] = 0
 # Loop through each line of the file
-    for line in text:
+        for line in text:
     # Remove the leading spaces and newline character
-        line = line.strip()
+            line = line.strip()
     # Convert the characters in line to
     # lowercase to avoid case mismatch
-        line = line.lower()
+            line = line.lower()
     # Split the line into words
-        words = line.split(" ")
+            words = line.split(" ")
     # Iterate over each word in line
         for word in words:
         # Check if the word is already in dictionary
@@ -118,7 +119,7 @@ for n in companyNumbers:
             # Increment count of word by 1
                 d[word] = d[word] + 1
 # Print the contents of dictionary
-
+    text.close()
     cmd = "INSERT INTO ZoekResultaat (zoektermid, ondernemingsnummer,aantalKeerSite, aantalKeerVerslag) VALUES (%s, %s, null, %s)"
     for key in list(d.keys()):
         zoekterm = key
@@ -131,18 +132,19 @@ for n in companyNumbers:
             kv = 1
         val = (idn, number, kv)
 
-        for row in id:
-            print('id:', row)
-        if d[key] != 0:
-            print('term:', key, "\naantal:", d[key])
-        else:
+        if not d[key] != 0:
             d[key] = 1
-            print('term:', key, "\naantal:", d[key])
 
+        txtfile.close()
+        text.close()
+        f.close()
 
         mycursor.execute(cmd, val)
+    if filenum > 0:
+        filenumm= filenum-1
+        os.remove("Jaarrekening%s.txt" % filenumm)
 
     mydb.commit()
-    txtfile.close()
-    os.remove("Jaarrekening%s.txt" %number)
+    filenum +=1
+
 mycursor.close()
