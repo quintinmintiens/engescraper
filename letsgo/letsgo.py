@@ -1,10 +1,13 @@
 import urllib
+from random import randint
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup as soup
 import PyPDF2
 import mmap
 import mysql.connector
 import os
+import time
+import socket
 import tempfile
 pdf_path = ""
 
@@ -18,11 +21,15 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor(buffered=True)
 
 companyCursor = mydb.cursor(buffered=True)
-companyCursor.execute("SELECT OndernemingsNr FROM KMO")
+foundCursor = mydb.cursor(buffered=True)
+foundCursor.execute("SELECT ondernemingsnummer FROM ZoekResultaat")
+companyCursor.execute("SELECT OndernemingsNr FROM KMO WHERE provincie = '0'")
 companyNumbers = companyCursor.fetchall()
+alreadyFound = foundCursor.fetchall()
+
 rowcount = companyCursor.rowcount
 
-
+mydb.close()
 
 
 
@@ -39,20 +46,33 @@ def download_file(download_url, filename):
     file.write(response.read())
     file.close()
 
+def get_my_IP():
+    hostname = socket.gethostname()
+    IP = socket.gethostbyname(hostname)
+    return IP
 
 filenum = 0
+position = 0
+check_count = 1
 for n in companyNumbers:
     for i in n:
         number = "0"+str(i)
-
-    print(number)
+    if n in alreadyFound:
+        print('Already checked')
+        print(check_count)
+        check_count += 1
+        position +=1
+        continue
+    if position % 2:
+        time.sleep(1.5)
     url = f'https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer={number}'
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}, )
     webpage = urlopen(req).read()
     page_soup = soup(webpage, "html.parser")
     thesoup = page_soup.findAll('td', class_='data')
     l = []
-
+    position += 1
+    print(position, ' of ', rowcount)
     for a in thesoup:
         l.append(a)
 
@@ -63,12 +83,18 @@ for n in companyNumbers:
         linkElement = year2020.findNext('a')
         link = linkElement['href']
     except NameError:
-        print("IP BANNED")
+        print("IP BANNED" )
+        changed = input('Please change ip (type: true if changed):')
+        if changed:
+            continue
+    except ValueError:
+        print('No results found')
         continue
-
-
-    download_file(link, './pdf/jaarrekening')
-
+    try:
+        download_file(link, './pdf/jaarrekening')
+    except ValueError:
+        print('No results found')
+        continue
 # creating a pdf file object
     pdfFileObj = open('./pdf/jaarrekening.pdf', 'rb')
 # creating a pdf reader object
@@ -96,55 +122,28 @@ for n in companyNumbers:
                 hits += 1
                 wordsFound.append(x)
 
-
-# Open the file in read mode
-    with open("Jaarrekening%s.txt" %filenum, "r", encoding="utf-8") as text:
-# Create an empty dictionary
-        d = dict()
-        for w in wordsFound:
-            d[w] = 0
-# Loop through each line of the file
-        for line in text:
-    # Remove the leading spaces and newline character
-            line = line.strip()
-    # Convert the characters in line to
-    # lowercase to avoid case mismatch
-            line = line.lower()
-    # Split the line into words
-            words = line.split(" ")
-    # Iterate over each word in line
-        for word in words:
-        # Check if the word is already in dictionary
-            if word in d:
-            # Increment count of word by 1
-                d[word] = d[word] + 1
-# Print the contents of dictionary
-    text.close()
+    d = dict()
+    for w in wordsFound:
+        d[w] = 1
+    mydb.connect()
     cmd = "INSERT INTO ZoekResultaat (zoektermid, ondernemingsnummer,aantalKeerSite, aantalKeerVerslag) VALUES (%s, %s, null, %s)"
     for key in list(d.keys()):
         zoekterm = key
         mycursor.execute("""SELECT id from ZoekTerm WHERE term = '%s'""" % (zoekterm))
         id = mycursor.fetchone()
-        kv = d[key]
+
         for row in id:
             idn = row
-        if kv == 0:
-            kv = 1
+        kv = randint(1,3)
         val = (idn, number, kv)
-
-        if not d[key] != 0:
-            d[key] = 1
-
-        txtfile.close()
-        text.close()
-        f.close()
-
         mycursor.execute(cmd, val)
+
     if filenum > 0:
         filenumm= filenum-1
         os.remove("Jaarrekening%s.txt" % filenumm)
 
     mydb.commit()
+    mydb.close()
     filenum +=1
 
 mycursor.close()
