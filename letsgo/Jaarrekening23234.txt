@@ -3,60 +3,60 @@ HET WETBOEK VAN VENNOOTSCHAPPEN EN
 VERENIGINGEN NEER TE LEGGEN DOCUMENTEN
 IDENTIFICATIEGEGEVENS (op datum van de neerlegging)
 Naam: 
-EXIDE TECHNOLOGIES BV
+PALI
 Rechtsvorm: 
 Besloten vennootschap
 Adres: 
-Veldkant
+Arselt
 Nr: 
-35
+32
 Bus: 
-C
 Postnummer:
-2550
+2360
 Gemeente: 
-Kontich
+Oud-Turnhout
 Land: 
 België
 Rechtspersonenregister (RPR) - Ondernemingsrechtbank van
-Antwerpen, afdeling Antwerpen
+Antwerpen, afdeling Turnhout
 Internetadres: 
 Ondernemingsnummer
-BE 0400.358.194
+BE 0408.128.488
 Datum van de neerlegging van het recentste stuk dat de datum van bekendmaking van de
 oprichtingsakte en van de akte tot statutenwijziging vermeldt.
-26-09-2016
+14-09-2010
 JAARREKENING IN EURO goedgekeurd door de algemene
 vergadering van
-23-02-2021
+03-05-2021
 met betrekking tot het boekjaar dat de periode dekt van
-01-04-2019
+01-01-2020
 tot
-31-03-2020
+31-12-2020
 Vorig boekjaar van
-01-04-2018
+01-01-2019
 tot
-31-03-2019
+31-12-2019
 De bedragen van het vorige boekjaar zijn identiek met die welke eerder openbaar werden gemaakt.
 Nummers van de secties van het standaardmodel die niet werden neergelegd omdat ze niet dienstig zijn: 
-VOL-inb 6.1, VOL-inb 6.2.1, VOL-inb 6.2.2, VOL-inb 6.2.3, VOL-inb 6.2.4, VOL-inb 6.2.5, VOL-inb 6.3.2, VOL-inb 6.3.4,
-VOL-inb 6.3.5, VOL-inb 6.3.6, VOL-inb 6.4.1, VOL-inb 6.4.2, VOL-inb 6.5.1, VOL-inb 6.5.2, VOL-inb 6.6, VOL-inb 6.12,
-VOL-inb 6.17, VOL-inb 6.18.2, VOL-inb 9, VOL-inb 11, VOL-inb 12, VOL-inb 13, VOL-inb 14, VOL-inb 15
-1/40
+VOL-inb 6.1, VOL-inb 6.2.1, VOL-inb 6.2.2, VOL-inb 6.2.3, VOL-inb 6.2.4, VOL-inb 6.2.5, VOL-inb 6.3.4, VOL-inb 6.3.5,
+VOL-inb 6.3.6, VOL-inb 6.4.1, VOL-inb 6.4.2, VOL-inb 6.4.3, VOL-inb 6.5.1, VOL-inb 6.5.2, VOL-inb 6.6, VOL-inb 6.7.2,
+VOL-inb 6.8, VOL-inb 6.12, VOL-inb 6.14, VOL-inb 6.17, VOL-inb 6.18.2, VOL-inb 9, VOL-inb 11, VOL-inb 12, VOL-inb
+13, VOL-inb 14, VOL-inb 15
+1/39
 43 
 NAT.
-23/02/2021
+17/12/2021
 Datum neer legging
-BE 0400.358.194
+BE 0408.128.488
 Nr.
-40
+39
 Blz.
 EUR
 D.
-21064.00128
+21805.00038
 VOL-inb 1.1
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 2.1
 LIJST VAN DE BESTUURDERS, ZAAKVOERDERS EN
 COMMISSARISSEN EN VERKLARING BETREFFENDE EEN
@@ -64,49 +64,49 @@ AANVULLENDE OPDRACHT VOOR NAZICHT OF CORRECTIE
 LIJST VAN DE BESTUURDERS, ZAAKVOERDERS EN COMMISSARISSEN
 VOLLEDIGE LIJST met naam, voornamen, beroep, woonplaats (adres, nummer, postnummer en gemeente) en functie
 in de vennootschap
-LAM
- Chi Wing
-Director
-Randweg 29
-2983 AL Ridderkerk
-NEDERLAND
-Begin van het mandaat: 12-02-2008
-Bestuurder
-FLAMMANG
- Benoit
-VP Finance EMEA & ASIA
-Rue Emile Deschanel 11
-92600 Asnières-sur-Seine
-FRANKRIJK
-Begin van het mandaat: 10-06-2020
-Bestuurder
-COTTAM
- Sharon
-VP HR EMEA & ASIA
-Moss Farm Barn, Moss House Lane, Much Hoole 1
-PR4 4TE Preston
-VERENIGD KONINKRIJK
-Begin van het mandaat: 10-06-2020
-Bestuurder
-KPMG BEDRIJFSREVISOREN CVBA
- (B00001)
-BE 0419.122.548
-Luchthaven Brussel Nationaal 1/K
-1930 Zaventem
+JOPARCO NV
+BE 0479.018.662
+Wolfsakker 13
+2370 Arendonk
 BELGIË
-Begin van het mandaat: 06-09-2018
-Einde van het mandaat: 07-09-2022
+Bestuurder
+Direct of indirect vertegenwoordigd door:
+JORISSEN
+ Wilhelmus
+Hokken 46/A
+2370 Arendonk
+BELGIË
+JALONO NV
+BE 0557.944.790
+Arselt 32
+2360 Oud-Turnhout
+BELGIË
+Bestuurder
+Direct of indirect vertegenwoordigd door:
+PARIDAANS
+ Johannes
+Arselt 32
+2360 Oud-Turnhout
+BELGIË
+VAN HAVERMAET BEDRIJFSREVISOREN CV
+ (00065)
+BE 0434.036.891
+Diepenbekerweg 65/1
+3500 Hasselt
+BELGIË
+Begin van het mandaat: 06-05-2019
+Einde van het mandaat: 02-05-2022
 Commissaris
 Direct of indirect vertegenwoordigd door:
-CARMANS
- Herwig (A-02326)
-Bedrijfsrevisor
-Luchthaven Brussel Nationaal 1/K
-1930 Zaventem
+ZEELMAEKERS
+ Rudi (A01603)
+Bedrijfsrevsior
+Diepenbekerweg 65/1
+3500 Hasselt
 BELGIË
-2/40
+2/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 2.2
 VERKLARING BETREFFENDE EEN AANVULLENDE OPDRACHT VOOR NAZICHT OF CORRECTIE
 Het bestuursorgaan verklaart dat geen enkele opdracht voor nazicht of correctie werd gegeven aan iemand die daar wettelijk niet toe
@@ -123,9 +123,9 @@ D. Het corrigeren van de jaarrekening.
 Indien taken bedoeld onder A. of onder B. uitgevoerd zijn door erkende boekhouders of door erkende boekhouders-fiscalisten, kunnen
 hierna worden vermeld: naam, voornamen, beroep en woonplaats van elke erkende boekhouder of erkende boekhouder-fiscalist en
 zijn lidmaatschapsnummer bij het Beroepsinstituut van erkende Boekhouders en Fiscalisten, evenals de aard van zijn opdracht.
-3/40
+3/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 3.1
 JAARREKENING
 BALANS NA WINSTVERDELING
@@ -139,26 +139,25 @@ OPRICHTINGSKOSTEN
 20
 VASTE ACTIVA
 21/28
-78.703
-80.229
+365.431
+349.251
 Immateriële vaste activa
 6.2
 21
 Materiële vaste activa
 6.3
 22/27
-75.329
-76.855
+365.431
+349.251
 Terreinen en gebouwen
 22
-73.549
-73.549
+365.431
+349.136
 Installaties, machines en uitrusting
 23
+115
 Meubilair en rollend materieel
 24
-1.781
-3.307
 Leasing en soortgelijke rechten
 25
 Overige materiële vaste activa
@@ -168,8 +167,6 @@ Activa in aanbouw en vooruitbetalingen
 Financiële vaste activa
 6.4/6.5.1
 28
-3.374
-3.374
 Verbonden ondernemingen
 6.15
 280/1
@@ -187,18 +184,14 @@ Vorderingen
 283
 Andere financiële vaste activa
 284/8
-3.374
-3.374
 Aandelen
 284
 Vorderingen en borgtochten in contanten
 285/8
-3.374
-3.374
 VLOTTENDE ACTIVA
 29/58
-14.184.873
-13.324.173
+1.661.950
+2.148.075
 Vorderingen op meer dan één jaar
 29
 Handelsvorderingen
@@ -207,12 +200,12 @@ Overige vorderingen
 291
 Voorraden en bestellingen in uitvoering
 3
-206.073
-119.598
+349.179
+168.151
 Voorraden
 30/36
-206.073
-119.598
+349.179
+168.151
 Grond- en hulpstoffen
 30/31
 Goederen in bewerking
@@ -221,8 +214,8 @@ Gereed product
 33
 Handelsgoederen
 34
-206.073
-119.598
+349.179
+168.151
 Onroerende goederen bestemd voor verkoop
 35
 Vooruitbetalingen
@@ -231,16 +224,16 @@ Bestellingen in uitvoering
 37
 Vorderingen op ten hoogste één jaar
 40/41
-13.883.835
-13.113.351
+1.306.564
+1.978.491
 Handelsvorderingen
 40
-4.116.972
-4.457.483
+419.811
+571.905
 Overige vorderingen
 41
-9.766.863
-8.655.868
+886.753
+1.406.587
 Geldbeleggingen
 6.5.1/6.6
 50/53
@@ -250,20 +243,18 @@ Overige beleggingen
 51/53
 Liquide middelen
 54/58
-9.425
-9.303
+6.207
+1.432
 Overlopende rekeningen
 6.6
 490/1
-85.540
-81.921
 TOTAAL VAN DE ACTIVA
 20/58
-14.263.577
-13.404.402
-4/40
+2.027.381
+2.497.326
+4/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 3.2
 Toel.
 Codes
@@ -272,33 +263,33 @@ Vorig boekjaar
 PASSIVA
 EIGEN VERMOGEN
 10/15
-7.486.064
-6.801.233
+1.728.952
+1.848.264
 Inbreng
 6.7.1
 10/11
-3.799.185
-3.799.185
+18.592
+18.592
 Beschikbaar
 110
 Onbeschikbaar
 111
-3.799.185
-3.799.185
+18.592
+18.592
 Herwaarderingsmeerwaarden
 12
 Reserves
 13
-379.919
-379.919
+1.710.360
+1.829.672
 Onbeschikbare reserves
 130/1
-379.919
-379.919
+1.859
+1.859
 Statutair onbeschikbare reserves
 1311
-379.919
-379.919
+1.859
+1.859
 Inkoop eigen aandelen
 1312
 Financiële steunverlening
@@ -307,13 +298,15 @@ Overige
 1319
 Belastingvrije reserves
 132
+97.225
+97.225
 Beschikbare reserves
 133
+1.611.276
+1.730.588
 Overgedragen winst (verlies)
 (+)/(-)
 14
-3.306.960
-2.622.130
 Kapitaalsubsidies
 15
 Voorschot aan de vennoten op de verdeling van het
@@ -322,35 +315,25 @@ netto-actief
 VOORZIENINGEN EN UITGESTELDE
 BELASTINGEN
 16
-1.696.778
-1.648.547
 Voorzieningen voor risico's en kosten
 160/5
-1.696.778
-1.648.547
 Pensioenen en soortgelijke verplichtingen
 160
-122.122
-149.434
 Belastingen
 161
 Grote herstellings- en onderhoudswerken
 162
 Milieuverplichtingen
 163
-1.300.000
-1.300.000
 Overige risico's en kosten
 6.8
 164/5
-274.655
-199.113
 Uitgestelde belastingen
 168
 SCHULDEN
 17/49
-5.080.735
-4.954.622
+298.429
+649.062
 Schulden op meer dan één jaar
 6.9
 17
@@ -379,29 +362,25 @@ Overige schulden
 Schulden op ten hoogste één jaar
 6.9
 42/48
-4.811.053
-4.501.200
+298.429
+648.903
 Schulden op meer dan één jaar die binnen het jaar
 vervallen
 42
 Financiële schulden
 43
-2.598.429
-1.750.380
 Kredietinstellingen
 430/8
-2.598.429
-1.750.380
 Overige leningen
 439
 Handelsschulden
 44
-1.000.767
-1.309.963
+276.794
+627.946
 Leveranciers
 440/4
-1.000.767
-1.309.963
+276.794
+627.946
 Te betalen wissels
 441
 Vooruitbetalingen op bestellingen
@@ -410,32 +389,31 @@ Schulden met betrekking tot belastingen,
 bezoldigingen en sociale lasten
 6.9
 45
-837.197
-1.173.198
+21.236
+20.557
 Belastingen
 450/3
-525.241
-876.789
+8.336
+8.257
 Bezoldigingen en sociale lasten
 454/9
-311.956
-296.409
+12.899
+12.300
 Overige schulden
 47/48
-374.660
-267.660
+400
+400
 Overlopende rekeningen
 6.9
 492/3
-269.682
-453.422
+159
 TOTAAL VAN DE PASSIVA
 10/49
-14.263.577
-13.404.402
-5/40
+2.027.381
+2.497.326
+5/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 4
 RESULTATENREKENING
 Toel.
@@ -444,13 +422,13 @@ Boekjaar
 Vorig boekjaar
 Bedrijfsopbrengsten
 70/76A
-21.187.718
-24.426.346
+11.098.702
+9.984.640
 Omzet
 6.10
 70
-20.500.472
-23.717.594
+11.098.702
+9.984.040
 Voorraad goederen in bewerking en gereed product
 en bestellingen in uitvoering: toename (afname)
 (+)/(-)
@@ -460,64 +438,59 @@ Geproduceerde vaste activa
 Andere bedrijfsopbrengsten
 6.10
 74
-687.246
-708.752
+600
 Niet-recurrente bedrijfsopbrengsten
 6.12
 76A
 Bedrijfskosten
 60/66A
-20.353.815
-22.602.011
+11.239.201
+9.995.328
 Handelsgoederen, grond- en hulpstoffen
 60
-17.660.167
-19.799.136
+10.899.032
+9.513.805
 Aankopen
 600/8
-17.746.642
-19.807.172
+11.080.060
+9.638.199
 Voorraad: afname (toename)
 (+)/(-)
 609
--86.475
--8.036
+-181.028
+-124.395
 Diensten en diverse goederen
 61
-1.062.092
-1.268.162
+240.154
+357.322
 Bezoldigingen, sociale lasten en pensioenen
 (+)/(-)
 6.10
 62
-1.566.258
-1.490.666
+73.680
+94.744
 Afschrijvingen en waardeverminderingen op
 oprichtingskosten, op immateriële en materiële vaste
 activa
 630
-1.526
-1.272
+22.813
+22.671
 Waardeverminderingen op voorraden, op bestellingen
 in uitvoering en op handelsvorderingen: toevoegingen
 (terugnemingen)
 (+)/(-)
 6.10
 631/4
--36.011
-27.745
 Voorzieningen voor risico's en kosten: toevoegingen
 (bestedingen en terugnemingen)
 (+)/(-)
 6.10
 635/8
-48.231
--36.406
 Andere bedrijfskosten
 6.10
 640/8
-51.552
-51.436
+3.523
+6.787
 Als herstructureringskosten geactiveerde
 bedrijfskosten
 (-)
@@ -528,39 +501,37 @@ Niet-recurrente bedrijfskosten
 Bedrijfswinst (Bedrijfsverlies)
 (+)/(-)
 9901
-833.903
-1.824.335
+-140.499
+-10.689
 Financiële opbrengsten
 75/76B
-320.046
-269.961
+23.600
+22.200
 Recurrente financiële opbrengsten
 75
-320.046
-269.961
+23.600
+22.200
 Opbrengsten uit financiële vaste activa
 750
-320.033
-268.018
 Opbrengsten uit vlottende activa
 751
+23.600
+22.200
 Andere financiële opbrengsten
 6.11
 752/9
-13
-1.943
 Niet-recurrente financiële opbrengsten
 6.12
 76B
 Financiële kosten
 65/66B
-91.187
-134.863
+2.413
+872
 Recurrente financiële kosten
 6.11
 65
-91.187
-134.863
+2.413
+872
 Kosten van schulden
 650
 Waardeverminderingen op vlottende activa
@@ -569,20 +540,18 @@ uitvoering en handelsvorderingen: toevoegingen
 (terugnemingen)
 (+)/(-)
 651
-254
-22.489
 Andere financiële kosten
 652/9
-90.933
-112.374
+2.413
+872
 Niet-recurrente financiële kosten
 6.12
 66B
 Winst (Verlies) van het boekjaar vóór belasting
 (+)/(-)
 9903
-1.062.762
-1.959.433
+-119.312
+10.640
 Onttrekking aan de uitgestelde belastingen
 780
 Overboeking naar de uitgestelde belastingen
@@ -591,20 +560,18 @@ Belastingen op het resultaat
 (+)/(-)
 6.13
 67/77
-377.931
-610.945
+4.849
 Belastingen
 670/3
-377.931
-610.945
+4.849
 Regularisering van belastingen en terugneming van
 voorzieningen voor belastingen
 77
 Winst (Verlies) van het boekjaar
 (+)/(-)
 9904
-684.831
-1.348.488
+-119.312
+5.791
 Onttrekking aan de belastingvrije reserves
 789
 Overboeking naar de belastingvrije reserves
@@ -612,11 +579,11 @@ Overboeking naar de belastingvrije reserves
 Te bestemmen winst (verlies) van het boekjaar
 (+)/(-)
 9905
-684.831
-1.348.488
-6/40
+-119.312
+5.791
+6/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 5
 RESULTAATVERWERKING
 Codes
@@ -625,37 +592,37 @@ Vorig boekjaar
 Te bestemmen winst (verlies)
 (+)/(-)
 9906
-3.306.960
-2.622.130
+-119.312
+5.791
 Te bestemmen winst (verlies) van het boekjaar
 (+)/(-)
 9905
-684.831
-1.348.488
+-119.312
+5.791
 Overgedragen winst (verlies) van het vorige boekjaar
 (+)/(-)
 14P
-2.622.130
-1.273.642
 Onttrekking aan het eigen vermogen
 791/2
+119.312
 aan de inbreng
 791
 aan de reserves
 792
+119.312
 Toevoeging aan het eigen vermogen
 691/2
+5.791
 aan de inbreng
 691
 aan de wettelijke reserve
 6920
 aan de overige reserves
 6921
+5.791
 Over te dragen winst (verlies)
 (+)/(-)
 14
-3.306.960
-2.622.130
 Tussenkomst van de vennoten in het verlies
 794
 Uit te keren winst
@@ -668,9 +635,9 @@ Werknemers
 696
 Andere rechthebbenden
 697
-7/40
+7/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.3.1
 TOELICHTING
 STAAT VAN DE MATERIËLE VASTE ACTIVA
@@ -681,10 +648,11 @@ TERREINEN EN GEBOUWEN
 Aanschaffingswaarde per einde van het boekjaar
 8191P
 XXXXXXXXXX
-3.861.049
+1.117.380
 Mutaties tijdens het boekjaar
 Aanschaffingen, met inbegrip van de geproduceerde vaste activa
 8161
+38.993
 Overdrachten en buitengebruikstellingen
 8171
 Overboekingen van een post naar een andere
@@ -692,7 +660,7 @@ Overboekingen van een post naar een andere
 8181
 Aanschaffingswaarde per einde van het boekjaar
 8191
-3.861.049
+1.156.373
 Meerwaarden per einde van het boekjaar
 8251P
 XXXXXXXXXX
@@ -712,10 +680,11 @@ Afschrijvingen en waardeverminderingen per einde van het
 boekjaar
 8321P
 XXXXXXXXXX
-3.787.501
+768.244
 Mutaties tijdens het boekjaar
 Geboekt
 8271
+22.697
 Teruggenomen
 8281
 Verworven van derden
@@ -728,13 +697,75 @@ Overgeboekt van een post naar een andere
 Afschrijvingen en waardeverminderingen per einde van het
 boekjaar
 8321
-3.787.501
+790.942
 NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR
 22
-73.549
-8/40
+365.431
+8/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
+VOL-inb 6.3.2
+Codes
+Boekjaar
+Vorig boekjaar
+INSTALLATIES, MACHINES EN UITRUSTING
+Aanschaffingswaarde per einde van het boekjaar
+8192P
+XXXXXXXXXX
+76.002
+Mutaties tijdens het boekjaar
+Aanschaffingen, met inbegrip van de geproduceerde vaste activa
+8162
+Overdrachten en buitengebruikstellingen
+8172
+Overboekingen van een post naar een andere
+(+)/(-)
+8182
+Aanschaffingswaarde per einde van het boekjaar
+8192
+76.002
+Meerwaarden per einde van het boekjaar
+8252P
+XXXXXXXXXX
+Mutaties tijdens het boekjaar
+Geboekt
+8212
+Verworven van derden
+8222
+Afgeboekt
+8232
+Overgeboekt van een post naar een andere
+(+)/(-)
+8242
+Meerwaarden per einde van het boekjaar
+8252
+Afschrijvingen en waardeverminderingen per einde van het
+boekjaar
+8322P
+XXXXXXXXXX
+75.886
+Mutaties tijdens het boekjaar
+Geboekt
+8272
+115
+Teruggenomen
+8282
+Verworven van derden
+8292
+Afgeboekt na overdrachten en buitengebruikstellingen
+8302
+Overgeboekt van een post naar een andere
+(+)/(-)
+8312
+Afschrijvingen en waardeverminderingen per einde van het
+boekjaar
+8322
+76.002
+NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR
+23
+9/39
+Nr.
+BE 0408.128.488
 VOL-inb 6.3.3
 Codes
 Boekjaar
@@ -743,7 +774,7 @@ MEUBILAIR EN ROLLEND MATERIEEL
 Aanschaffingswaarde per einde van het boekjaar
 8193P
 XXXXXXXXXX
-4.579
+13.176
 Mutaties tijdens het boekjaar
 Aanschaffingen, met inbegrip van de geproduceerde vaste activa
 8163
@@ -754,7 +785,7 @@ Overboekingen van een post naar een andere
 8183
 Aanschaffingswaarde per einde van het boekjaar
 8193
-4.579
+13.176
 Meerwaarden per einde van het boekjaar
 8253P
 XXXXXXXXXX
@@ -774,11 +805,10 @@ Afschrijvingen en waardeverminderingen per einde van het
 boekjaar
 8323P
 XXXXXXXXXX
-1.272
+13.176
 Mutaties tijdens het boekjaar
 Geboekt
 8273
-1.526
 Teruggenomen
 8283
 Verworven van derden
@@ -791,104 +821,12 @@ Overgeboekt van een post naar een andere
 Afschrijvingen en waardeverminderingen per einde van het
 boekjaar
 8323
-2.798
+13.176
 NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR
 24
-1.781
-9/40
+10/39
 Nr.
-BE 0400.358.194
-VOL-inb 6.4.3
-STAAT VAN DE FINANCIËLE VASTE ACTIVA
-Codes
-Boekjaar
-Vorig boekjaar
-ANDERE ONDERNEMINGEN - DEELNEMINGEN EN
-AANDELEN
-Aanschaffingswaarde per einde van het boekjaar
-8393P
-XXXXXXXXXX
-Mutaties tijdens het boekjaar
-Aanschaffingen
-8363
-Overdrachten en buitengebruikstellingen
-8373
-Overboekingen van een post naar een andere
-(+)/(-)
-8383
-Aanschaffingswaarde per einde van het boekjaar
-8393
-Meerwaarden per einde van het boekjaar
-8453P
-XXXXXXXXXX
-Mutaties tijdens het boekjaar
-Geboekt
-8413
-Verworven van derden
-8423
-Afgeboekt
-8433
-Overgeboekt van een post naar een andere
-(+)/(-)
-8443
-Meerwaarden per einde van het boekjaar
-8453
-Waardeverminderingen per einde van het boekjaar
-8523P
-XXXXXXXXXX
-Mutaties tijdens het boekjaar
-Geboekt
-8473
-Teruggenomen
-8483
-Verworven van derden
-8493
-Afgeboekt na overdrachten en buitengebruikstellingen
-8503
-Overgeboekt van een post naar een andere
-(+)/(-)
-8513
-Waardeverminderingen per einde van het boekjaar
-8523
-Niet-opgevraagde bedragen per einde van het boekjaar
-8553P
-XXXXXXXXXX
-Mutaties tijdens het boekjaar
-(+)/(-)
-8543
-Niet-opgevraagde bedragen per einde van het boekjaar
-8553
-NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR
-284
-ANDERE ONDERNEMINGEN - VORDERINGEN
-NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR
-285/8P
-XXXXXXXXXX
-3.374
-Mutaties tijdens het boekjaar
-Toevoegingen
-8583
-Terugbetalingen
-8593
-Geboekte waardeverminderingen
-8603
-Teruggenomen waardeverminderingen
-8613
-Wisselkoersverschillen
-(+)/(-)
-8623
-Overige mutaties
-(+)/(-)
-8633
-NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR
-285/8
-3.374
-GECUMULEERDE WAARDEVERMINDERINGEN OP
-VORDERINGEN PER EINDE BOEKJAAR
-8653
-10/40
-Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.7.1
 STAAT VAN DE INBRENG EN DE AANDEELHOUDERSSTRUCTUUR
 Codes
@@ -904,10 +842,10 @@ Beschikbaar per einde van het boekjaar
 Onbeschikbaar per einde van het boekjaar
 111P
 XXXXXXXXXX
-3.799.185
+18.592
 Onbeschikbaar per einde van het boekjaar
 111
-3.799.185
+18.592
 EIGEN VERMOGEN INGEBRACHT DOOR DE
 AANDEELHOUDERS
 In geld
@@ -925,7 +863,7 @@ Wijzigingen tijdens het boekjaar
 Aandelen op naam
 8702
 XXXXXXXXXX
-292.859
+250
 Gedematerialiseerde aandelen
 8703
 XXXXXXXXXX
@@ -968,20 +906,9 @@ Aantal aandelen gehouden door haar dochters
 8781
 Boekjaar
 Bijkomende toelichting met betrekking tot de inbreng (waaronder de inbreng in nijverheid)
-11/40
-12/40
+11/39
 Nr.
-BE 0400.358.194
-VOL-inb 6.8
-VOORZIENINGEN VOOR OVERIGE RISICO'S EN KOSTEN
-Boekjaar
-UITSPLITSING VAN DE POST 164/5 VAN DE PASSIVA INDIEN DAARONDER EEN
-BELANGRIJK BEDRAG VOORKOMT
-Garantie voorziening
-274.655
-13/40
-Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.9
 STAAT VAN DE SCHULDEN EN OVERLOPENDE REKENINGEN (PASSIVA)
 Codes
@@ -1092,9 +1019,9 @@ Schulden met betrekking tot bezoldigingen en sociale lasten
 9021
 Overige schulden
 9051
-14/40
+12/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.9
 Codes
 Boekjaar
@@ -1142,23 +1069,22 @@ Vervallen belastingschulden
 9072
 Niet-vervallen belastingschulden
 9073
+3.494
 Geraamde belastingschulden
 450
-525.241
+4.842
 Bezoldigingen en sociale lasten
 Vervallen schulden ten aanzien van de Rijksdienst voor Sociale Zekerheid
 9076
 Andere schulden met betrekking tot bezoldigingen en sociale lasten
 9077
-311.956
+12.899
 Boekjaar
 OVERLOPENDE REKENINGEN
 Uitsplitsing van de post 492/3 van de passiva indien daaronder een belangrijk bedrag voorkomt
-Toe te rekenen kosten
-269.682
-15/40
+13/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.10
 BEDRIJFSRESULTATEN
 Codes
@@ -1178,41 +1104,37 @@ heeft ingediend of die zijn ingeschreven in het algemeen
 personeelsregister
 Totaal aantal op de afsluitingsdatum
 9086
-20
-20
+2
+2
 Gemiddeld personeelsbestand berekend in voltijdse equivalenten
 9087
-18,6
-18,6
+1,2
+1,2
 Aantal daadwerkelijk gepresteerde uren
 9088
-30.096
-28.532
+1.657
+2.185
 Personeelskosten
 Bezoldigingen en rechtstreekse sociale voordelen
 620
-1.169.800
-1.124.884
+61.715
+76.124
 Werkgeversbijdragen voor sociale verzekeringen
 621
-292.662
-298.760
+12.744
+16.077
 Werkgeverspremies voor bovenwettelijke verzekeringen
 622
-89.947
-32.182
 Andere personeelskosten
 623
-13.849
-34.840
+-779
+2.543
 Ouderdoms- en overlevingspensioenen
 624
 Voorzieningen voor pensioenen en soortgelijke verplichtingen
 Toevoegingen (bestedingen en terugnemingen)
 (+)/(-)
 635
--27.311
--37.397
 Waardeverminderingen
 Op voorraden en bestellingen in uitvoering
 Geboekt
@@ -1222,47 +1144,35 @@ Teruggenomen
 Op handelsvorderingen
 Geboekt
 9112
-2.000
-33.654
 Teruggenomen
 9113
-38.011
-5.909
 Voorzieningen voor risico's en kosten
 Toevoegingen
 9115
-182.043
-28.953
 Bestedingen en terugnemingen
 9116
-133.812
-65.359
 Andere bedrijfskosten
 Bedrijfsbelastingen en -taksen
 640
-51.552
-51.436
+2.798
+2.720
 Andere
 641/8
+725
+4.067
 Uitzendkrachten en ter beschikking van de vennootschap gestelde
 personen
 Totaal aantal op de afsluitingsdatum
 9096
 Gemiddeld aantal berekend in voltijdse equivalenten
 9097
-0,1
-0,3
 Aantal daadwerkelijk gepresteerde uren
 9098
-82
-552
 Kosten voor de vennootschap
 617
-2.574
-27.422
-16/40
+14/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.11
 FINANCIËLE RESULTATEN
 Codes
@@ -1280,9 +1190,6 @@ Uitsplitsing van de overige financiële opbrengsten
 Gerealiseerde wisselkoersverschillen
 754
 Andere
-Deviezen
-13
-1.943
 RECURRENTE FINANCIËLE KOSTEN
 Afschrijving van kosten bij uitgifte van leningen
 6501
@@ -1291,8 +1198,6 @@ Geactiveerde interesten
 Waardeverminderingen op vlottende activa
 Geboekt
 6510
-254
-22.489
 Teruggenomen
 6511
 Andere financiële kosten
@@ -1310,18 +1215,15 @@ Gerealiseerde wisselkoersverschillen
 Resultaten uit de omrekening van vreemde valuta
 655
 Andere
-Koersverschillen
-98
-1.770
-Bankkosten
-7.810
-8.477
-Kortingen
-64.970
-86.521
-17/40
+Diverse bankkosten
+836
+872
+Betalingsverschillen
+1.577
+0
+15/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.13
 BELASTINGEN EN TAKSEN
 Codes
@@ -1329,20 +1231,16 @@ Boekjaar
 BELASTINGEN OP HET RESULTAAT
 Belastingen op het resultaat van het boekjaar
 9134
-368.928
 Verschuldigde of betaalde belastingen en voorheffingen
 9135
-368.928
 Geactiveerde overschotten van betaalde belastingen en voorheffingen
 9136
 Geraamde belastingsupplementen
 9137
 Belastingen op het resultaat van vorige boekjaren
 9138
-9.003
 Verschuldigde of betaalde belastingsupplementen
 9139
-9.003
 Geraamde belastingsupplementen of belastingen waarvoor een voorziening werd gevormd
 9140
 Belangrijkste oorzaken van de verschillen tussen de winst vóór belastingen, zoals die blijkt
@@ -1368,173 +1266,22 @@ BELASTINGEN TEN LASTE VAN DERDEN
 In rekening gebrachte belasting op de toegevoegde waarde
 Aan de vennootschap (aftrekbaar)
 9145
-7.662.653
-9.069.244
+729.717
+686.962
 Door de vennootschap
 9146
-4.205.823
-4.928.325
+518.094
+332.408
 Ingehouden bedragen ten laste van derden bij wijze van
 Bedrijfsvoorheffing
 9147
-345.379
-344.609
+14.847
+18.217
 Roerende voorheffing
 9148
-18/40
+16/39
 Nr.
-BE 0400.358.194
-VOL-inb 6.14
-NIET IN DE BALANS OPGENOMEN RECHTEN EN VERPLICHTINGEN
-Codes
-Boekjaar
-DOOR DE VENNOOTSCHAP GESTELDE OF ONHERROEPELIJK BELOOFDE
-PERSOONLIJKE ZEKERHEDEN ALS WAARBORG VOOR SCHULDEN OF
-VERPLICHTINGEN VAN DERDEN
-9149
-Waarvan
-Door de vennootschap geëndosseerde handelseffecten in omloop
-9150
-Door de vennotschap getrokken of voor aval getekende handelseffecten
-9151
-Maximumbedrag ten belope waarvan andere verplichtingen van derden door de vennootschap
-zijn gewaarborgd
-9153
-ZAKELIJKE ZEKERHEDEN
-Zakelijke zekerheden die door de vennootschap op haar eigen activa werden gesteld
-of onherroepelijk beloofd als waarborg voor schulden en verplichtingen van de
-vennootschap
-Hypotheken
-Boekwaarde van de bezwaarde activa
-91611
-Bedrag van de inschrijving
-91621
-Voor de onherroepelijke mandaten tot hypothekeren, het bedrag waarvoor de
-volmachthebber krachtens het mandaat inschrijving mag nemen
-91631
-Pand op het handelsfonds
-Maximumbedrag waarvoor de schuld is gewaarborgd en waarvoor registratie plaatsvindt
-91711
-Voor de onherroepelijke mandaten tot verpanding van het handelsfonds, het bedrag
-waarvoor de volmachthebber krachtens het mandaat tot registratie mag overgaan
-91721
-Pand op andere activa of onherroepelijke mandaten tot verpanding van andere activa
-Boekwaarde van de bezwaarde activa
-91811
-Maximumbedrag waarvoor de schuld is gewaarborgd
-91821
-Gestelde of onherroepelijk beloofde zekerheden op nog te verwerven activa
-Bedrag van de betrokken activa
-91911
-Maximumbedrag waarvoor de schuld is gewaarborgd
-91921
-Voorrecht van de verkoper
-Boekwaarde van het verkochte goed
-92011
-Bedrag van de niet-betaalde prijs
-92021
-Zakelijke zekerheden die door de venootschap op haar eigen activa werden gesteld of
-onherroepelijk beloofd als waarborg voor schulden en verplichtingen van derden
-Hypotheken
-Boekwaarde van de bezwaarde activa
-91612
-Bedrag van de inschrijving
-91622
-Voor de onherroepelijke mandaten tot hypothekeren, het bedrag waarvoor de
-volmachthebber krachtens het mandaat inschrijving mag nemen
-91632
-Pand op het handelsfonds
-Maximumbedrag waarvoor de schuld is gewaarborgd en waarvoor registratie plaatsvindt
-91712
-Voor de onherroepelijke mandaten tot verpanding van het handelsfonds, het bedrag
-waarvoor de volmachthebber krachtens het mandaat tot registratie mag overgaan
-91722
-Pand op andere activa of onherroepelijke mandaten tot verpanding van andere activa
-Boekwaarde van de bezwaarde activa
-91812
-5.452.745
-Maximumbedrag waarvoor de schuld is gewaarborgd
-91822
-Gestelde of onherroepelijk beloofde zekerheden op nog te verwerven activa
-Bedrag van de betrokken activa
-91912
-Maximumbedrag waarvoor de schuld is gewaarborgd
-91922
-Voorrecht van de verkoper
-Boekwaarde van het verkochte goed
-92012
-Bedrag van de niet-betaalde prijs
-92022
-GOEDEREN EN WAARDEN GEHOUDEN DOOR DERDEN IN HUN NAAM MAAR
-TEN BATE EN OP RISICO VAN DE VENNOOTSCHAP, VOOR ZOVER DEZE
-GOEDEREN EN WAARDEN NIET IN DE BALANS ZIJN OPGENOMEN
-BELANGRIJKE VERPLICHTINGEN TOT AANKOOP VAN VASTE ACTIVA
-19/40
-Nr.
-BE 0400.358.194
-VOL-inb 6.14
-Codes
-Boekjaar
-BELANGRIJKE VERPLICHTINGEN TOT VERKOOP VAN VASTE ACTIVA
-TERMIJNVERRICHTINGEN
-Gekochte (te ontvangen) goederen
-9213
-Verkochte (te leveren) goederen
-9214
-Gekochte (te ontvangen) deviezen
-9215
-Verkochte (te leveren) deviezen
-9216
-Boekjaar
-VERPLICHTINGEN VOORTVLOEIEND UIT DE TECHNISCHE WAARBORGEN
-VERBONDEN AAN REEDS GEPRESTEERDE VERKOPEN OF DIENSTEN
-Boekjaar
-BEDRAG, AARD EN VORM VAN BELANGRIJKE HANGENDE GESCHILLEN EN ANDERE
-BELANGRIJKE VERPLICHTINGEN
-REGELING INZAKE HET AANVULLEND RUST- OF OVERLEVINGSPENSIOEN TEN BEHOEVE VAN DE
-PERSONEELS- OF DIRECTIELEDEN
-Beknopte beschrijving
-Een groepsverzekering voor de medewerkers werd afgesloten bij Axa Belgium.
-Genomen maatregelen om de daaruit voortvloeiende kosten te dekken
-Code
-Boekjaar
-PENSIOENEN DIE DOOR DE VENNOOTSCHAP ZELF WORDEN GEDRAGEN
-Geschat bedrag van de verplichtingen die voortvloeien uit reeds gepresteerd werk
-9220
-Basis en wijze waarop dit bedrag wordt berekend
-Boekjaar
-AARD EN FINANCIËLE GEVOLGEN VAN MATERIËLE GEBEURTENISSEN DIE ZICH NA
-BALANSDATUM HEBBEN VOORGEDAAN EN DIE NIET IN DE RESULTATENREKENING
-OF BALANS WORDEN WEERGEGEVEN
-Boekjaar
-AAN- OF VERKOOPVERBINTENISSEN DIE DE VENNOOTSCHAP ALS OPTIESCHRIJVER
-VAN CALL- EN PUTOPTIES HEEFT
-20/40
-Nr.
-BE 0400.358.194
-VOL-inb 6.14
-Boekjaar
-Boekjaar
-AARD, ZAKELIJK DOEL EN FINANCIËLE GEVOLGEN VAN BUITENBALANS
-REGELINGEN
-Mits de risico's of voordelen die uit dergelijke regelingen voortvloeien van enige betekenis zijn
-en voor zover de openbaarmaking van dergelijke risico's of voordelen noodzakelijk is voor de
-beoordeling van de financiële positie van de vennootschap
-Boekjaar
-ANDERE NIET IN DE BALANS OPGENOMEN RECHTEN EN VERPLICHTINGEN (MET
-INBEGRIP VAN DEZE DIE NIET KUNNEN WORDEN BECIJFERD)
-Bankgarantie
-280.040
-Exide Holding Netherlands B.V., heeft een formele bevestiging gegeven door middel van een letter
-of support, waarin zij haar financiële ondersteuning aan de vennootschap bevestigt tot minstens de
-volgende
-0
-algemene vergadering, die de jaarrekening over het boekjaar eindigend op 31 maart 2021 zal
-goedkeuren.
-0
-21/40
-Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.15
 BETREKKINGEN MET VERBONDEN ONDERNEMINGEN, GEASSOCIEERDE ONDERNEMINGEN EN DE ANDERE
 ONDERNEMINGEN WAARMEE EEN DEELNEMINGSVERHOUDING BESTAAT
@@ -1552,14 +1299,14 @@ Andere vorderingen
 9281
 Vorderingen
 9291
-9.211.151
-8.616.184
+845.420
+1.319.383
 Op meer dan één jaar
 9301
 Op hoogstens één jaar
 9311
-9.211.151
-8.616.184
+845.420
+1.319.383
 Geldbeleggingen
 9321
 Aandelen
@@ -1568,14 +1315,10 @@ Vorderingen
 9341
 Schulden
 9351
-733.826
-981.569
 Op meer dan één jaar
 9361
 Op hoogstens één jaar
 9371
-733.826
-981.569
 Persoonlijke en zakelijke zekerheden
 Door de vennootschap gesteld of onherroepelijk beloofd als waarborg
 voor schulden of verplichtingen van verbonden ondernemingen
@@ -1590,6 +1333,8 @@ Opbrengsten uit financiële vaste activa
 9421
 Opbrengsten uit vlottende activa
 9431
+23.600
+22.200
 Andere financiële opbrengsten
 9441
 Kosten van schulden
@@ -1651,9 +1396,9 @@ Schulden
 9352
 Op meer dan één jaar
 9362
-22/40
+17/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.15
 Codes
 Boekjaar
@@ -1667,12 +1412,10 @@ Vermelding van dergelijke transacties indien zij van enige betekenis zijn, met o
 bedrag van deze transacties, de aard van de betrekking met de verbonden partij, alsmede andere
 informatie over de transacties die nodig is voor het verkrijgen van inzicht in de financiële positie
 van de vennootschap
-Bij gebrek aan wettelijke criteria die toelaten om de transacties met verbonden partijen buiten normale
-marktvoorwaarden te inventariseren, werd geen enkele transactie opgenomen.
-0
-23/40
+Nihil
+18/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.16
 FINANCIËLE BETREKKINGEN MET
 Codes
@@ -1695,6 +1438,7 @@ toegekende pensioenen, voor zover deze vermelding niet uitsluitend of hoofdzakel
 betrekking heeft op de toestand van een enkel identificeerbaar persoon
 Aan bestuurders en zaakvoerders
 9503
+159.000
 Aan oud-bestuurders en oud-zaakvoerders
 9504
 Codes
@@ -1703,7 +1447,7 @@ DE COMMISSARIS(SEN) EN DE PERSONEN MET WIE HIJ (ZIJ) VERBONDEN IS
 (ZIJN)
 Bezoldiging van de commissaris(sen)
 9505
-23.640
+12.508
 Bezoldiging voor uitzonderlijke werkzaamheden of bijzondere opdrachten uitgevoerd
 binnen de vennootschap door de commissaris(sen)
 Andere controleopdrachten
@@ -1712,6 +1456,7 @@ Belastingadviesopdrachten
 95062
 Andere opdrachten buiten de revisorale opdrachten
 95063
+615
 Bezoldiging voor uitzonderlijke werkzaamheden of bijzondere opdrachten uitgevoerd
 binnen de vennootschap door personen met wie de commissaris(sen) verbonden is (zijn)
 Andere controleopdrachten
@@ -1720,38 +1465,57 @@ Belastingadviesopdrachten
 95082
 Andere opdrachten buiten de revisorale opdrachten
 95083
+200
 Vermeldingen in toepassing van het artikel 3:64, §2 en §4 van het Wetboek van vennootschappen en verenigingen
-24/40
+19/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.18.1
 VERKLARING BETREFFENDE DE GECONSOLIDEERDE JAARREKENING
 Inlichtingen te verstrekken door elke vennootschap die onderworpen is aan de bepalingen van het Wetboek van
 vennootschappen en verenigingen inzake de geconsolideerde jaarrekening
+De vennootschap heeft geen geconsolideerde jaarrekening en geconsolideerd jaarverslag opgesteld, omdat zij daarvan vrijgesteld is
+om de volgende reden(en)
+De vennootschap is zelf dochtervennootschap van een moedervennootschap die een geconsolideerde jaarrekening, waarin haar
+jaarrekening door consolidatie opgenomen is, opstelt en openbaar maakt
+In voorkomend geval, motivering dat aan alle voorwaarden tot vrijstelling, opgenomen in artikel 3:26, §2 en §3 van het
+Wetboek van vennootschappen en verenigingen, is voldaan
+Jaargemiddelde personeelsbestand: 1,2 VTE
+Jaaromzet: 11.098.702,22 EUR
+Balanstotaal: 2.027.381,16 EUR
+De betrokken vennootschap wordt opgenomen in de geconsolideerde jaarrekening opgesteld door de in hierna vernoemde
+moedervennootschap
+Naam, volledig adres van de zetel en, zo het een vennootschap naar Belgisch recht betreft, het ondernemingsnummer van
+de moedervennootschap die de geconsolideerde jaarrekening opstelt en openbaar maakt, op grond waarvan de vrijstelling is
+verleend
+Paridaans & Liebregts BV
+Veemarktkade 19-21
+5201 AJ 's Hertogenbosch
+NEDERLAND
 Inlichtingen die moeten worden verstrekt door de vennootschap indien zij dochtervennootschap of gemeenschappelijke
 dochtervennootschap is
 Naam, volledig adres van de zetel en, zo het een vennootschap naar Belgisch recht betreft, het ondernemingsnummer van de
 moedervennootschap(pen) en de aanduiding of deze moedervennootschap(pen) een geconsolideerde jaarrekening, waarin haar
 jaarrekening door consolidatie opgenomen is, opstelt (opstellen) en openbaar maakt (maken)*:
-Exide International Holdings LP
+Paridaans & Liebregts BV
 Consoliderende moederonderneming - Grootste geheel
-South Church Street 121/309
-KY11104 George Town
-CAYMANEILANDEN
+Veemarktkade 19-21
+5201 AJ 's Hertogenbosch
+NEDERLAND
 Indien de moedervennootschap(pen) (een) vennootschap(pen) naar buitenlands recht is (zijn), de plaats waar de hiervoor
 bedoelde geconsolideerde jaarrekening verkrijgbaar is*:
-Exide International Holdings LP
-South Church Street 121/309
-KY11104 George Town
-CAYMANEILANDEN
+Kamer van Koophandel Brabant
+JF Kennedylaan 2
+5612 AB Eindhoven
+NEDERLAND
 ______________________________________
 *
 Wordt de jaarrekening van de vennootschap op verschillende niveaus geconsolideerd, dan worden deze gegevens verstrekt,
 enerzijds voor het grootste geheel en anderzijds voor het kleinste geheel van vennootschappen waarvan de vennootschap als
 dochter deel uitmaakt en waarvoor een geconsolideerde jaarrekening wordt opgesteld en openbaar gemaakt.
-25/40
+20/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.19
 Waarderingsregels
 SAMENVATTING VAN DE WAARDERINGSREGELS                                                                                               
@@ -1816,17 +1580,15 @@ Afschrijvingen geboekt tijdens het boekjaar :
 + 2. Immateriële vaste activa .......+                    +                    +                         +                         +
 +                                    +                    +                    +                         +                         +
 + 3. Industriële, administratieve of +                    +                    +                         +                         +
-+    commerciële gebouwen * .........+         L          +         NG         +     3.00   - 5.00       +     100.00 - 100.00     +
-+                                    +                    +                    +     0.00   - 0.00       +     0.00   - 0.00       +
++    commerciële gebouwen * .........+         L          +         NG         +     5.00   - 10.00      +     0.00   - 100.00     +
 +                                    +                    +                    +                         +                         +
 + 4. Installaties, machines en       +                    +                    +                         +                         +
-+    uitrustingen * .................+         L          +         NG         +     33.00  - 33.00      +     100.00 - 100.00     +
-+                                    +         L          +         NG         +     10.00  - 10.00      +     100.00 - 100.00     +
++    uitrustingen * .................+         L          +         NG         +     10.00  - 10.00      +     0.00   - 100.00     +
 +                                    +                    +                    +                         +                         +
-+ 5. Rollend materieel * ............+         L          +         NG         +     25.00  - 25.00      +     100.00 - 100.00     +
++ 5. Rollend materieel * ............+         L          +         NG         +     33.33  - 33.33      +     0.00   - 100.00     +
++                                    +         L          +         NG         +     20.00  - 20.00      +     0.00   - 100.00     +
 +                                    +                    +                    +                         +                         +
-+ 6. Kantoormateriaal en meubilair * +         L          +         NG         +     10.00  - 10.00      +     100.00 - 100.00     +
-+                                    +         L          +         NG         +     20.00  - 20.00      +     100.00 - 100.00     +
++ 6. Kantoormateriaal en meubilair * +         L          +         NG         +     40.00  - 40.00      +     0.00   - 100.00     +
 +                                    +                    +                    +                         +                         +
 + 7. Andere matriële vaste activa * .+                    +                    +                         +                         +
 +------------------------------------+--------------------+--------------------+-------------------------+-------------------------+
@@ -1846,28 +1608,27 @@ Voorraden worden gewaardeerd tegen de aanschaffingswaarde berekend volgens de (t
 gemiddelde prijzen, Fifo, Lifo, individualisering van de prijs van elk bestanddeel of tegen de lagere marktwaarde :                 
                                                                                                                                     
 1. Grond- en hulpstoffen :                                                                                                          
-Fifo of lagere marktwaarde                                                                                                          
+Fifo                                                                                                                                
 2. Goederen in bewerking - gereed product :                                                                                         
-Fifo of lagere marktwaarde                                                                                                          
 3. Handelsgoederen :                                                                                                                
-Fifo of lagere marktwaarde                                                                                                          
+Fifo                                                                                                                                
 4. Onroerende goederen bestemd voor verkoop :                                                                                       
-Verkrijgingsprijs verminderd met de cumulatieve afschrijvingen en indien van toepassing met bijzondere waardeverminderingen.        
-26/40
-Nr.
-BE 0400.358.194
-VOL-inb 6.19
+Individualisering van de prijs van elk bestanddeel                                                                                  
                                                                                                                                     
 Producten :                                                                                                                         
 - De vervaardigingsprijs van de producten waarvan de poductie meer dan één jaar beslaat, [xxxxxx] [omvat geen] financiële kosten    
+21/39
+Nr.
+BE 0408.128.488
+VOL-inb 6.19
 verbonden aan de kapitalen ontleend om de productie ervan te financieren.                                                           
                                                                                                                                     
 Bij het einde van het boekjaar bedraagt de marktwaarde van de totale voorraden ongeveer           % meer dan hun boekwaarde.        
 (deze inlichting is slechts vereist zo het verschil belangrijk is).                                                                 
                                                                                                                                     
 Bestellingen in uitvoering :                                                                                                        
-Bestellingen in uitvoering worden geherwaardeerd [tegen vervaardigingsprijs] [xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx].                                                                           
+Bestellingen in uitvoering worden geherwaardeerd [tegen vervaardigingsprijs] [tegen vervaardigingsprijs, verhoogd met een gedeelte  
+van het resultaat naar gelang van de vordering der werken].                                                                         
                                                                                                                                     
 Schulden :                                                                                                                          
 De passiva [xxxxxxxx] [bevatten geen] schulden op lange termijn, zonder rente of met een abnormale lage rente; zo ja, dan wordt op  
@@ -1875,51 +1636,229 @@ deze schulden [een] [geen] disconto toegepast dat wordt geactiveerd.
                                                                                                                                     
 Vreemde valuta :                                                                                                                    
 De omrekening in EUR van tegoeden, schulden en verbintenissen in vreemde valuta gebeurt op volgende grondslagen :                   
+NVT                                                                                                                                 
 De resultaten uit de omrekening van de vreemde valuta zijn als volgt in de jaarrekening verwerkt :                                  
+NVT                                                                                                                                 
                                                                                                                                     
 Leasingovereenkomsten :                                                                                                             
 Wat de niet-geactiveerde gebruiksrechten uit leasingovereenkomsten betreft (die betrekking hebben op onroerende goederen en         
 afgesloten vóór 1 januari 1980), beliepen de vergoedingen en huurgelden die betrekking hebben op het boekjaar voor leasing van      
 onroerende goederen :           EUR.                                                                                                
-27/40
+22/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 6.20
 Andere in de toelichting te vermelden inlichtingen
-Het jaar werd overschaduwd door de gebeurtenissen rond COVID-19. We zien een verstoring van de wereldwijde financiële markt, aangezien zowel
- de aandelenmarkten als de rentetarieven aanzienlijk zijn gedaald. De Vennootschap heeft de nodige maatregelen genomen om de veiligheid
- en het welzijn van haar collega's en klanten in België te waarborgen. De recente neergang op de markt voor ruwe olie en het uitbreken van
- COVID-19 blijven de wereldeconomie en markten beïnvloeden. Het is onzeker hoe deze gebeurtenissen zich zullen ontwikkelen en wat de impact
- zal zijn op onze activiteiten, financiële prestaties en liquiditeit. Op dit moment zijn de effecten van het Coronavirus op ons bedrijf
- beperkt. Hoewel een duidelijke afname van de omzet binnen de divisie Motive Power zichtbaar is (circa - 29%), laten onze beide overige
- divisies Transportation (+ 22%) en Network Power (+ 5%) een duidelijke stijging zien ten opzichte van het vorig jaar. Het is dan ook de
- verwachting dat we het komend jaar een lichte omzetgroei zullen laten zien. Desondanks houden we de situatie nauwgezet in de gaten. Nieuwe
- gebeurtenissen kunnen echter een negatieve invloed hebben op onze klanten, toeleveringsketen, personeel en activiteiten, onze markten en
- onze liquiditeit. Deze onzekerheid heeft ons doen besluiten gebruik te maken van de door de overheid geboden mogelijkheid tot tijdelijke
- werkloosheid in de periode tussen April en Augustus 2020. Totaal zijn onze medewerkers, verdeeld over diverse afdelingen, 171 dagen tijdelijk
- op inactief gezet omwille van gebrek aan werk. Echter, op basis van onze huidige kennis en beschikbare informatie, verwachten we niet dat
- Covid-19 nog een verdere impact gaat hebben op de continuïteit van onze organisatie. Daarnaast heeft Exide Holding Netherlands B.V. een
- formele bevestiging gegeven door middel van een letter of support, waarin zij haar financiële ondersteuning aan de vennootschap bevestigt tot
- minstens de volgende algemene vergadering, die de jaarrekening over het boekjaar eindigend op 31 maart 2021 zal goedkeuren.
-Op 26 oktober 2020 is het voormalig Exide EMEA & APAC gescheiden van de VS, en opereert nu als een onafhankelijk bedrijf met een wereldwijd
- scope. De 'nieuwe' investeerders zijn een groep lange-termijn-aandeelhouders van het voormalige Exide, wat aangeeft dat het vertrouwen in
- onze nieuwe groep groot is. De eigendomsoverdracht van de volledige EMEA & APAC-activiteiten aan de nieuw opgerichte Energy Technologies
- Holdings LLC heeft plaatsgevonden. Dit omvat alle locaties, medewerkers, klantrelaties en het exclusieve gebruik van de merken Exide, GNB,
- Marathon, Sprinter en Absolyte in onze regio's. Evenals het wereldwijde eigendom van onze krachtige merken zoals Fulmen, Tudor, Deta , Centra
- enz. Als onderdeel van deze transactie heeft Exide Global Holding Netherlands CV, een financiële holding binnen de Exide groep, een extra
- opstartfinanciering van meerdere miljoenen dollars van onze investeerders ontvangen, die ons in staat zal stellen te blijven innoveren rond
- de veranderende behoeften aan energieopslag van onze klanten.
-28/40
-29/40
-30/40
-31/40
-32/40
-33/40
-34/40
-35/40
-36/40
+Belangrijke gebeurtenissen na balansdatum: 
+De impact van het coronavirus op het openbare en het bedrijfsleven heeft ook een invloed op PALI BV. Hoewel dit naar verwachting een negatieve
+ impact zal hebben op de financiële prestaties van de onderneming in 2021, kan PALI BV de omvang van de gevolgen en de duur van de impact op
+ dit moment niet kwantificeren.
+In verband met de uitbraak van dit virus heeft PALI BV voorzorgsmaatregelen en regels geïmplementeerd op basis van aanbevelingen en
+ richtlijnen van officiële instanties.
+Bovendien heeft men middelen ingezet ter preventie en bestrijding  van COVID-19.
+De onderneming blijft haar bedrijfsactiviteiten dagelijks controleren en beoordelen en zal daar waar nodig bijkomende maatregelen treffen.
+23/39
+24/39
+25/39
+26/39
+27/39
+28/39
+29/39
+30/39
+%&'(
+)*+,-.*/$0*//--.+1234
+&5+* ,.$67
+)$8 769: $;<=>?<@AB;<?
+;/C*5/*DE/F+/GDD*5$:H:IJK7IJH II
+@%@$&/.L*54*/M$3NC*, E/F$?G 5/2-G.
+0O@P'&Q$0& A$=O$R;SS(PP&@(P$&&A$=O$&'QOSOAO$0O@Q&=O@(AQ$0&A$%&'($)0$;0O@$BO?$);OTU&&@$
+&VQOP';?OA$;%$6K$=OROS)O@$7:7:
+%&$'()$*+,(-$.+&$,($/())(012*($34&)-40($.+&$,($2++--(*(&1&5$.+&$
+%&'($)0$
+6,(78(&&44) 93'+:;<=$0(55(&$/ 12$>$
+4&9$34??199+-19.(-90+5$.44-@ $A1)$B(.+)$4&9$.(-90+5$4. (-$,($34&) -40($.+&$,($2++--(*(&1&5$+0944*$,($4. (-15($
+,44-$/()C(&$-(5(05(.1&5$5(9)(0,($(19(&@$A1)$.4-?)$((&$5('((0$(&$19$4&,((0B++-@
+D12$/(-,(&$B(&4(?,$1&$4&E($'4(,+&15'(1,$.+&$3 4?? 199+-19,44-$,($+05(?(&($.(-5 +,(-1&5$.+&
+9$D*E$7:K W
+=
+4.(-((&*4?9)15$'()$.44-9)(0$.+&$'()$B(9)>>-94-5++&@F&9$?+&,++)$044:)$+G$4:$,($,+)>? $.+&$,($+05(?(&($
+. (-5+,(-1&5$,1($B(-++,90++5)$4.(-$,($2++--(*(&1&5$+G5(904)(&4:$
+6K$C*1*DX*5$7:7K
+@$D12$'(BB(&$,($
+/ ())(012*($34&)-40($.+&$,($2++--(*(&1&5$.+&$
+%&'($)0$
+>1) 5(.4(-,$5(,>-(&,($
+DE/+.*/+$7W$
+4:((&.405(&,($
+B4(* 2+-(&@
+0O@P'&Q$;0O@$=O$U&&@@OTOA(AQ
+;-5C**,$Y-/ C*5$Z--5X*2-GC
+D12$'(BB(&$,($/())(012*($34&)-40($>1)5(.4(-,$.+&$,($2++--(*(&1&5$.+&$
+%&'($)0
+=$,1($,($B+0+&9$4:$
+6K$
+C*1*DX*5$7:7:$
+4? . +)=$+0944*$,($-(9>0)+)(&-(*(&1&5$.+&$'()$B4(*2++-$+G5(904)(&$4:$,1($,+)>?$(&$,($
+)4(013')1&5= $?()$((&$B+0+&9)4)++0$.+&$
+[7J:7\J6IKM K9
+(&$/++-.+&$,($-(9>0)+)(&-(*(&1&5$+G90>1) $? () $((&$
+. (-01(9.+&$'()$B4(*2 ++-$.+&$
+[KKWJ6KKM\7J
+H++-$4&9$44-,((0$5((G)$,($2++--(*(&1&5$((&$5()-4>/$B((0,$.+&$'()$.(-?45(&$(&$,($G1&+&3 1I0($)4(9)+&,$.+&
+,($8(&&44)93'+::(-$
+6K$C*1*DX*5$7:7:
+=$+0944*$.+&$'++-$-(9>0)+)(&$4.(-$'()$B4(*2++-$,+)$4:$,1($,+)>? $19$
++G5(904)(&=$1&$4.(-((&9)(??1&5$?()$'() $1&$J(051I$.+&$)4(:+991&5$E12&,($B4(*'4>,*>&,15$-(G(-(&)1(9)(09(0@
+31/39
+%&'($)0
+;/C*5/*DE/F+ /GDD*5:H:IJK7IJHII
+@%@$&/.L*54*/M$3NC*,E/F ?G5/2-G.
+%3FE/3$7Z3/$]
+)3+E+$Z-- 5$2*.- -5C**,$Y-/ C*5$Z--5X*2-GC
+D12$'(BB(&$4&E($34&) -40($>1)5(.4(-,$.405(&9$,($1&)(-&+)14&+0($34&)-40(9)+&,++-,(&$6%KLM9<$E4+09$.+&$
+)4(:+991&5$1&$J(051I@F&E($.(-+&) /44-,(012*'(,(&$4:$5-4&,$.+&$,(E($9) +&,++-,(&$E12&$.(-,(-$B(93'-(.(&$1&$
+,($9(3) 1($78(-+&) /44-,(012*'(,(&$.+&$,($34??199+-19$.44-$,($34&)-40($.+&$,($2++--(*(&1&5;$.+&$4&9$.(-90+5@$
+D12$'(BB(&$+00($,(4&)4045193'($.(-(19)(&$,1($-(0(. +&)$E12&$.44-$,($34&)-40($.+&$,($2++--(*(&1&5$1&$J(051I$
+&+5(0((G,=$?()$1&B(5-1:$.+&$,(E($?()$B()-(**1&5$)4)$,($4&+G'+&*(012*'(1,@$
+D12$'(BB(&$.+&$'()$B(9)>>-94-5++&$(&$. +&$,($++&5(9)(0,(&$.+&$,($8(&&44)93'+:,($.44-$4&E($34&)-40($
+. (-(19)($4:'(0,(-1&5(&$(&$1&013')1&5(&$.(-*-(5(&@
+D12$E12&$.+&$?(&1&5$,+)$,($,44-$4&9$.(-*-(5(&$34&)-40(C1&G4 -?+)1($.40,4(&,($(&$5(93 '1*)$19$+09$B+919$.44-$
+4&9$44-,((0@
+)*/3C 5G^^E /F$Z3/$**/$X*433,C*$33/F*,*F*/2*EC$8R ;0(=>KW
+N4&,(-$+GB-(>*$)($,4(&$++&$'()$'1(-B4.(&$)4)$>1) ,->**1&5$5(B-+3')$44-,((0=$.(9)15(&$/12$,($++&,+3')$4:$
+)4(013')1&5$
+0;'>E/X9J7:
+.+&$,($2++--(*(&1&5$,1($?(0,1&5$? ++*)$.+&$,($?45(012*($(GG(3)(&$.+&$,($
+5(B(>-)(&199(&$4&) 9)++&$.+&+G$?++-)$OPOP$+09$5(. 405$.+&$,($5(E4&,'(1,93-1919$QF8% ACRS $4:$,($)4(*4? 9)15($
+-(&,+B101) (1)$.+&$,($.(&&44)93 '+:$(&$'++-$34&)1&>T)(1)@ $U() $B(9)>>-94-5++&$.(-?(0,)$(-$(.(&((&9$,($'>1,15($
+5(&4?(&$?++)-(5(0(&$(&$,(5(&($,1($/ 4-,(&$B(445,@
+0*53/ .L--5C*,E _^2*C*/Z3/ $2*.$X*+.GG5+-5F33/$Z--5$2*.$-4+.* ,,*/$Z3/$C*_ 3355*^*/E/F
+U ()$B(9)>>-94-5++&$19$. (-+&)/44-,(012*$.44-$'()$4:9)(00(&$.+&$,($2++--(*(&1&5$,1($((&$5()-4>/$B((0,$5((G)$
+1&$4.(-((&9)(?? 1&5$?()$'() $1&$J(051I$.+&$)4(:+991&5$E12&,($B4(*'4>,*>&,15$-(G( -(&)1(9)(09(0= $+0944*$.44-$
+,($1&)(-&($B('((-91&5$,1($'()$B(9)>>-94-5++&$&44,E+* (012*$+3')$. 44-$'()$4:9)(00(&$.+&$,($2++--(*(&1&5$,1($
+5((&$+G/12*1&5$.+&$? +)(-1((0$B(0+&5$B(.+)$,1($'()$5(.405$19$. +&$G-+>,($4G$.+&$G4>)(&@
+J12$'()$4:9)(00(&.+&, ($2++--(*(&1&5$19$'() $B(9)>>-94-5++&$.(-+&)/ 44-,(012*$.44-$'()$1&93'+))(&$.+&$
+,($? 45(012*'(1,$.+&$,($8(&&44) 93'+:4 ?$'++-$34&)1&>T)(1)$) ($'+&,'+.(&=$'()$)4(013')(&=$1&,1(&$.+&$
+)4(:+991&5=$.+&$++&5(0(5(&'(,(&$,1($?()$34&) 1&>T)(1)$.(-B+&,$'4>,(&$(&$'()$5(B->1*(&$.+&$,($
+34&)1&>T)(1)9. (-4&,(-9)(001&5= $)(&E12'()$B(9)>>-94-5++&'()$.44-&(?(&$'((G)$4?,($8(&&44)93'+:)($
+01V>1,(-(&$4G$4?$,($B(,-12G9+3) 1.1)(1)(&$)($B(I1&,15(&$4G$5((&$-(+019)193'$+0)(-&+)1(G$'((G)$,+&$,1)$)($,4(&@
+0*53/ .L--5C*,E _^2*C*/Z3/$C*$1-DDE++35E+$Z--5$C*$1-/.5-,*$Z3/$C*$_3355*^*/E/F
+F&E($,4(09)(001&5(&$E12&$'()$.(-*-125(&$.+&$((&$-(,(012*($?+)($.+&$E(*(-'(1,$4.(-$,($.-++5$4G$,($2++--(*(&1&5$
++09$5('((0$5((&$+G/ 12*1&5$.+&$?+)(-1((0$B(0+&5$B(. +)$,1($'()$5(. 405$19$.+&$G-+>,($4G$.+&$G4>)(&$(&$'()$
+>1) B-(&5(&$.+&$((&$34? ? 199+-19.(-90+5$/++-1&$4&9$44-,((0$19$4:5(&4?(&@$
+W(&$-(,(012*($?+)($.+&$E(*(-'(1,$19$((&$'445$&1.(+>$.+&$E(*(-'(1,=$?++-$19$5((&$5+-+&)1($,+)$((&$34&)-40($
+,1($4.(-((&*4? 9)15$,($%KLM9$19$>1)5(. 4(-,$+0)12,$((&$+G/ 12*1&5$.+&$? +)(-1((0$B(0+&5$4&),(*)$/+&&((-$,1($
+B(9)++)@$
+LG/ 12*1&5(&$*>&&(&$E13'$.44-,4(&$+09$5(.405$.+&$G-+>,($4G$G4>) (&$(&$/4-,(&+09$.+&$?+) (-1((0$B(0+&5$
+B(93'4>/,$1&,1(&$-(,(012*(-/129$*+&$/4-,(&$.(-/+3')$,+)$E12=$1&,1.1,>((0$4G$5(E+?(&012*=$,($(34&4?193'($
+B(90199 1&5(&$5(&4?(&$,44-$5(B->1*(-9$4:$B+919$.+&$,(E($2++--(*(&1&5= $B(T&.04(,(&@
+32/39
+%&'($)0
+;/C*5/*DE/F+ /GDD*5:H:IJK7IJHII
+@%@$&/.L*54*/M$3NC*,E/F ?G5/2-G.
+%3FE/3$6Z3/$]
+J12$,($>1) .4(-1&5$.+&$4&E($34&) -40($0(.(&$/12$'()$/ ())(012*=$-(50(?(&)+1-$(&$&4-?+)1(G$*+,(-$,+)$.+&$
+)4(:+991&5$19$4:$,($34&)-40($.+&$,($2++--(*(&1&5$1&$J(051I$&+@$W(&$/()) (012*($34&) -40($B1(,)$(. (&/(0$5((&$
+E(*(-'(1,$4?)-(&)$,($) 4(*4?9)15($0(.(&9.+) B++-'(1,$.+&$,($8(&&44) 93'+:=$&43'$4?)-(&)$,($(GG13 1I&)1($4G$
+,($,4(0)-(GG(&,'(1,$/++-?(($'()$B(9) >>-94-5++&$,($B(,-12G9.4(-1&5$.+&$,($8(&&44) 93'+:$)(-$'+&,$'((G) $
+5(&4?(&$4G$E+0$&(?(&@$
+L09$,((0$. +&$((&$34&)-40($>1) 5(. 4(-,$4.(-((&*4?9)15$,($%KLM9=$:+99(&$/12$:-4G(99 14&(0($44-,((09.4-?1&5$)4($
+(&$'+&,'+.(&$/ 12$((&$:-4G(9914&((0C*-1)193 '($1&9)(001&5$5(,>-(&,($,($3 4&)-40(@
+D($.4(-(&$)(.(&9$,($.405(&,($/(-*E++?'(,(&$>1)X
+U ()1,(&) 1G13(-(&$(&$1&93'+))(&$.+&$,($-1913 4M 9$,+),($2++--(*(&1&5((&$+G/12*1&5$.+&$?+)(-1((0$B(0+&5$
+B(.+)$,1($'() $5(.405$19$.+&$G-+>,($4G$.+&$G4>)(&= $'()$B(:+0(&$(&$>1) .4(-(&$.+&$34&) -40(/(-*E++? C
+'(,(&$,1($4:$,(E($-1913 4M9$1&9:(0(&$(&$'()$.(-*-125(&$.+&$3 4&)-40(C1&G4-?+)1($,1($. 40,4(&,($(&$
+5(93'1*)$19$+09$B+919$.44-$4&9$44-,((0@$
+U ()$-19134$.+&$'() $&1()$,()(3)(-(&$.+&$((&$.+&$?+)(-1((0$B(0+&5$E12&,($+G/12*1&5$19$5-4)(-$1&,1(&$,1($
++G/12*1&5$'()$5(.405$19$.+&$G-+>,($,+&$1&,1(&$E12$'()$5(.405$19$.+&$G4>)(&=$4? ,+) $B12$G-+>,($9:-+*($*+&$
+E12&$.+&$9+?(&9:+&&1&5=$.+09'(1,$1&$5(93'-1G)(=$'()$4:E()) (012*$&+0+)(&$4?$)-+&9+3)1(9$.+9)$)($0(55(&=$
+'()$4:E())(012*$.(-*((-,$.44-9) (00(&$.+&$E+*(&$4G$'()$,44-B-(*(&$.+&$,($1&) (-&($B('((-91&5@
+U (). (-*-125(&$.+&$1&E13')$1&$,($1&)(-&($B('((-91&5$,1($-(0(.+&)$19$.44-$,($34&)-40(=$?()$+09$,4(0$
+34&)-40(/ (-*E++?'(,(&$4:$)($E())(&$,1($1&$,($5(5(.(&$4?9)+&,15'(,(&$5(93'1*)$E12&$?++-$,1($&1()$
+E12&$5(-13')$4:$'()$5(.(&$.+&$((&$44-,((0$4.(-$,($(GG(3)1.1)(1)$.+&$,($1&)(-&($B('((-91&5$.+&$,($
+8(&&44)93'+:@
+U ()(.+0>(-(&$.+&$,($5(93'1*)'(1,$.+&$,($5('+&)((-,($5-4&,90+5(&$.44-$G1&+&31I0($.(-90+55(. 1&5$(&$
+'()$(.+0>(-(&$.+&$,($-(,(012*'(1,$.+&$,($,44-$'()$B(9)>>-94-5++&$5(?++*)($93'+)) 1&5(&$(&$.+&$,($
+,++-4:$B()-(**1&5$'(BB(&,($)4(013')1&5(&@
+U ()34&30>,(-(&$4G,($,44-'()$B(9)>>-94-5 ++&5('+&)((-,($34&)1&>T)(1) 9.(-4&,(-9)(001&5$
+++&.++-,B++-$19=$(&$'()$34&30>,(-(&=$4:$B+919$.+&$,($.(-*-(5(&$34&) -40(C1&G4-?+)1(=$4G(-$((&$
+4&E(*(-'(1,$. +&$? +)(-1((0$B(0+&5$B(9)++)$?()$B()-(**1&5$)4)$5(B(>-)(&199 (&$4G$4?9)+&,15'(,(&$
+,1($915&1G13 +&)($)/ 12G(0$*>&&(&$,4(&$4&)9)++&$4.(-$,($?45(012*'(1,$.+&$,($8(&&44)93'+:4? $'++-$
+34&) 1&>T)(1) $)($'+&,'+.(&@$
+%&,1(&$/12$34&30>,(-(&$,+)$(-$((&$4&E(*(-'(1,$.+&$?+)(-1((0$B(0+&5$B(9)++)=$E12&$/ 12$(-)4($5('4>,(&$
+4?$,($++&,+3')$1&$4&9$34??199+-19.(-90+5$)($.(9)15(&$4:$,($,++-4:$B()-(**1&5$'(BB(&,($
+)4(013')1&5(&$1&,($2++--(*(&1&5=$4G=$1&,1(&$,(E($) 4(013') 1&5(&$1&+,(V>++)$E12&=$4?$4&9$44-,((0$++&$) ($
+:+99(&@ $
+F&E($34&30>91(9$E12&$5(B+9((-,$4:$,($34&)-40(C1&G4-?+)1($,1($.(-*-(5(&$19$)4)$,($,+)>?$.+&$4&9$
+34??199+-19.(-90+5 @$
+Y4(*4? 9) 15($5(B(>-)(&199(&$4G$4? 9)+&,15'(,(&$*>&&(&$(-$(3')(-$)4($0(1,(&$,+)$,($8(&&44)93'+:
+'++-$34&)1&>T) (1)$&1()$0+&5(-$*+&$'+&,'+.(&@
+U ()(.+0>(-(&$.+&$,($+05('(0($:-(9(&)+)1(=$9)->3)>>-$(&$1&'4>,$.+&,($2++--(*(&1&5= $(&$.+&$,($.-++5$
+4G$,($2++--(*(&1&5$,($4&,(-0155(&,($)-+&9+3)1(9$(&$5(B(>-)(&199(&$/((-5 ((G)4:$((&$/12E($,1($0(1,)$)4)$
+((&$5()-4>/$B((0,@$
+33/39
+%&'($)0
+;/C*5/*DE/F+ /GDD*5:H:IJK7IJHII
+@%@$&/.L*54*/M$3NC*,E/F ?G5/2-G.
+%3FE/3$HZ3/$]
+D12$34?? >&13 (-(&$?()'()$B(9)>>-94-5 ++&4&,(-$? ((-$4.(-$,($5(:0+&,($-(1*/12,)($(&$) 1?1&5$.+&$,($
+34&)-40($(&$4.(-$,($915&1G13+&)($3 4&)-40(B(.1&,1&5(&=$/++-4&,(-$(. (&)>(0($915&1G13+&)($)(*4-)*4? 1&5(&$1&$
+,($1&)(-&($B('((-91&5$,1($/ 12$1,(&) 1G13(-(&$5(,>-(&,($4&E($34&)-40(@
+;0O@(QO$=;;@$`O?> OA$@OQO'QO0(AQ$QOP?O'=O$O(POA
+0*53/ .L--5C*,E _^2*C*/$Z3/ $2*.$X* +.GG5+-5F33/
+U ()$B (9)>>-94-5++&$19$. (-+&)/44-,(012*$. 44-$'()$4:9)(00(&$(&$,($1&'4>,$.+&$'()$2++-.(-90+5='()&+0(.(&$.+&$
+,($/())(012*($(&$B(9)>>-9-(3')(012*($.44-93'-1G)(&$,1($.+&$)4(:+991&5$E12&$4:$'()$.4(-(&$. +&$,($B4(*'4>,1&5=$
++0944*$.44-$'()$ &+0(.(&$.+&$' () $ D()B4(*$.+&$.(&&44)93'+::(&$(&$. (-(&151&5(&=$(&$.+&$ ,($9)+)>)(&$.+&$,($
+8(-(&151&5@
+0*53/ .L--5C*,E_^2*C*/$Z3/ $C*$1-DDE++35E+
+%&$'()$*+,(-$.+&$4&9$?+&,++)$(&$4.(-((&*4?9)15$,($J(05193'($B12*4?(&,($&4-?$6'(-E1(&($.(-91($OPR Z<$B12$,($
+1&$J(051I$.+&$)4(:+991&5$E12&,($1&) (-&+)14&+0($34&) -40(9)+&,++-,(&$6%KLM9<=$19$'()$4&E($.(-+&)/44-,(012*'(1,$
+4?=$ 1&$+00($. +&$? +)(-1((0$B(0+&5$E12&,($4 :E13 ')(&=$'()$2++-. (-90+5=$,($&+0(.1&5$.+&$ B(:++0,($. 44-93'-1G)(&$>1)$
+'()$D()B4(*$. +&$.(&&44)93'+::(&$ (&$.(-(&151&5(&$(&$,($ 9)+)>)(&$ )($. (-1G1I-(&=$ +0944*$. (-90+5$4.(-$,(E($
+++&5(0(5(&'(,(&$>1)$)($B-(&5(&@
+&+4*1.*/$X*.5*NN*/C*$2*.$_335Z*5+,3F
+H+$'()$>1).4(-(&$.+&$9:(31G1(*($/(-*E++?'(,(&$4:$'()$2++-.(-90+5=$E12&$/ 12$.+&$44-,((0$,+)$,1)$2++-.(-90+5$
+4.(-((&9)(?)? ()$,($2++--(*(&1&5$.44-$'()E(0G,($B4(*2++-(&$19$4:5(9)(0,$4.(-((&*4?9)15$,($+-)1*(0(&$[X\
+(&$[ X].+&$'()$D ()B4(*$.+& 8(&&44)93'+::(&(&$8(-(&151&5(&@
+%&$,($34&)(^)$.+&$4&E($34&)-40($.+&$,($2++--(*(&1&5=$E12&$/ 12$)(. (&9$.(-+&)/ 44-,(012*$.44-$'()$4.(-/(5(&=$1&$
+'()$B12E4&,(-$4:$B+919$.+&$,($*(&&19$.(-*-(5(&$1&$,($34&)-40(=$4G$'()$2++-.(-90+5$((&$+G/12*1&5$. +&$? +)(-1((0$
+B(0+&5$B(.+)= $'()E12$1&G4-?+)1($,1($4&2>19)$.(-? (0,$19$4G$+&,(-9E1&9$?190(1,(&,$19@ $
+%&$'()$013 ')$.+&$,($/(-*E++?'(,(&$,1($/12$'(BB(&$>1)5(.4(-,= $,1(&(&$/ 12$>$5((&$+G/12*1&5$.+&$? +)(-1((0$
+B(0+&5$) ($? (0,(&@$
+0*5D*,CE/F$X*.5*NN*/C*$C*$+-1E3,*$X3, 3/+
+A($9431+0($B+0+&9$&((-$)($0(55(&B 12$,($H+)14&+0($J+& *$.+&$J(051I 4. (-((&*4? 9)15$+-)1*(0$[ XRO= $_$R=$Z`$.+&$
+'()$D()B4(* $.+&$8(&&44)93'+::(&(&$8(-(&151&5(&=$B(. +)=$E4/(0$V>+$.4-?$+09$V>+$1&'4>,$+00($,44-$,1) $
+D()B4(*$. 44-5(93'-(.(&$1&013')1&5(&$(&$B(. +)$5((&$.+&$?+)(-1((0$B(0+&5$E12&,($1&34&919)(&)1(9$)(&$++&E1(&$
+. +&$,($1&G4-?+)1($/ ++-4.(-$/12$B(93'1**(&$1&$'()$*+,(-$.+&$4&E($4:,-+3 ')@
+34/39
+%&'($)0
+;/C*5/*DE/F+ /GDD*5:H:IJK7IJHII
+@%@$&/.L*54*/M$3NC*,E/F ?G5/2-G.
+%3FE/3$]Z3/$]
+0*5D*,CE/F*/$X*.5*NN*/C *$C*$-/3N23/^*,E_^2*EC
+F&9$B(,-12G9-(.194-(&*+&)44-(&$4&9$&() /(-*'(BB(&5((&$4:,-+3')(&$,1($4&.(-(&15B++-$E12&$?()$,($
+/())(012*($34&)-40($.+&$,($2++--(*(&1&5$. (--13')=$(&$4&9$B(,-12G9-(. 194-(&*+&)44-$19$1&$,($044:$.+&$4&9$
+?+&,++)$4&+G'+&*(012*$5(B0(.(&$)(5(&4.(-$,($8(&&44)93'+:@
+A ($'4&4-+-1+$.44-$,($B12*4? (&,($4:,-+3')(&$,1($.(-(&15B++-$E12&$? ()$,($/ () )(012*($34&)-40($.+&$,($
+2++--(*(&1&5$B(,4(0,$1&$+-)1*(0$[X]\. +&$'()$D() B4(*$.+&$8(&&44)93'+::(&$(&$8(-(&151&5(&$/(-,(&$
+34--(3) $.(-?(0,$(&$>1)5(9:01)9)$1&$,($)4(013') 1&5$B12$,($2++--(*(&1&5@
+&/C*5*$Z*5D*,CE/F*/
+F&.(-?1&,(-,$G4-?(0($+9:(3) (&$.+&$4&,(-5 (93'1*) $B(0+&5= $/(-,$,($B4(*'4>,1&5$5(.4(-,$1&$
+4.(-((&9)(? ?1&5$?()$,($1&$J(051I$.+&$)4(:+991&5$E12&,($/())(012*($(&$B(9)>>-9-(3')(012*($
+. 44-93'-1G)(&@
+A ($-(9>0)++).(-/(-*1 &5=$,1($++&$,($+05(?(&($.(-5+,(-1&5$/4-,)$.44-5(9)(0,=$9)(? )$4.(-((&$? () $,($
+/())(012*($(&$9)+)>) +1-($B(:+01&5(&@
+D12$,1(&(&$>$5((&$.(--13')1&5(&$4G$B(901991&5(&$?(,($)($,(0(&$,1($1&$4.(-)-(,1&5$?()$,($9)+)>)(&$4G$
+'()$D()B4(*$.+&$.(&&44) 93'+::(&$(&$.(-(&151&5(&$E12&$5(,++&$4G$5(&4?(&@
+U +99(0)=$R]$+:-10$OP OR
+8LH$UL8WabLWY$JWAa%cdKaW8%KFaWHQ 8
+Q4??199+-19$
+8(-)(5(&/44-,15,$,44-
+a>,1$NWWebLWfWaK
+J(,-12G9-(.194-Cg+-)&(-
+35/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 10
 SOCIALE BALANS
 Nummers van de paritaire comités die voor de vennootschap bevoegd zijn: 
@@ -1936,56 +1875,37 @@ Vrouwen
 Gemiddeld aantal werknemers
 Voltijds
 1001
-17,5
-12,9
-4,6
+1
 Deeltijds
 1002
-1,6
 1,2
-0,4
 Totaal in voltijdse equivalenten (VTE)
 1003
-18,6
-13,7
-4,9
+1,2
 Aantal daadwerkelijk gepresteerde uren
 Voltijds
 1011
-28.316
-20.692
-7.624
+1.300
+1.300
 Deeltijds
 1012
-1.780
-1.200
-580
+357
+357
 Totaal
 1013
-30.096
-21.892
-8.204
+1.657
+1.300
+357
 Personeelskosten
 Voltijds
 1021
-1.467.945
-1.000.417
-467.528
 Deeltijds
 1022
-98.313
-75.288
-23.025
 Totaal
 1023
-1.566.258
-1.075.706
-490.552
+73.680
 Bedrag van de voordelen bovenop het loon
 1033
-10.382
-4.408
-5.974
 Tijdens het vorige boekjaar
 Codes
 P.
@@ -1996,27 +1916,24 @@ Mannen
 Vrouwen
 Gemiddeld aantal werknemers in VTE
 1003
-18,6
-14
-4,6
+1,2
+1
+0,2
 Aantal daadwerkelijk gepresteerde uren
 1013
-28.532
-21.452
-7.080
+2.185
+1.756
+429
 Personeelskosten
 1023
-1.490.666
-1.089.626
-401.040
+94.744
+76.142
+18.602
 Bedrag van de voordelen bovenop het loon
 1033
-8.694
-3.561
-5.133
-37/40
+36/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 10
 WERKNEMERS WAARVOOR DE VENNOOTSCHAP EEN DIMONA-VERKLARING HEEFT INGEDIEND OF DIE ZIJN
 INGESCHREVEN IN HET ALGEMEEN PERSONEELSREGISTER (VERVOLG)
@@ -2032,15 +1949,15 @@ voltijdse
 equivalenten
 Aantal werknemers
 105
-18
-2
-19,3
+1
+1
+1,1
 Volgens de aard van de arbeidsovereenkomst
 Overeenkomst voor een onbepaalde tijd
 110
-18
-2
-19,3
+1
+1
+1,1
 Overeenkomst voor een bepaalde tijd
 111
 Overeenkomst voor een duidelijk omschreven werk
@@ -2050,40 +1967,30 @@ Vervangingsovereenkomst
 Volgens het geslacht en het studieniveau
 Mannen
 120
-13
-2
-14,3
+1
+1
 lager onderwijs
 1200
-9
-2
-10,3
 secundair onderwijs
 1201
 1
 1
 hoger niet-universitair onderwijs
 1202
-2
-2
 universitair onderwijs
 1203
-1
-1
 Vrouwen
 121
-5
-5
+1
+0,1
 lager onderwijs
 1210
-4
-4
 secundair onderwijs
 1211
+1
+0,1
 hoger niet-universitair onderwijs
 1212
-1
-1
 universitair onderwijs
 1213
 Volgens de beroepscategorie
@@ -2091,13 +1998,12 @@ Directiepersoneel
 130
 Bedienden
 134
-17
-2
-18,3
+1
+1
 Arbeiders
 132
 1
-1
+0,1
 Andere
 133
 UITZENDKRACHTEN EN TER BESCHIKKING VAN DE VENNOOTSCHAP GESTELDE PERSONEN
@@ -2112,16 +2018,13 @@ vennootschap
 gestelde personen
 Gemiddeld aantal tewerkgestelde personen
 150
-0,1
 Aantal daadwerkelijk gepresteerde uren
 151
-82
 Kosten voor de vennootschap
 152
-2.574
-38/40
+37/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 10
 TABEL VAN HET PERSONEELSVERLOOP TIJDENS HET BOEKJAAR
 INGETREDEN
@@ -2139,13 +2042,9 @@ het boekjaar een DIMONA-verklaring heeft ingediend
 of die tijdens het boekjaar werden ingeschreven in het
 algemeen personeelsregister
 205
-2
-2
 Volgens de aard van de arbeidsovereenkomst
 Overeenkomst voor een onbepaalde tijd
 210
-2
-2
 Overeenkomst voor een bepaalde tijd
 211
 Overeenkomst voor een duidelijk omschreven werk
@@ -2167,15 +2066,9 @@ aangegeven of een in het algemeen personeelsregister
 opgetekende datum waarop hun overeenkomst tijdens
 het boekjaar een einde nam
 305
-1
-1
-1,8
 Volgens de aard van de arbeidsovereenkomst
 Overeenkomst voor een onbepaalde tijd
 310
-1
-1
-1,8
 Overeenkomst voor een bepaalde tijd
 311
 Overeenkomst voor een duidelijk omschreven werk
@@ -2191,17 +2084,14 @@ Afdanking
 342
 Andere reden
 343
-1
-1
-1,8
 Waarvan:
 het aantal werknemers dat als zelfstandige
 ten minste op halftijdse basis diensten blijft
 verlenen aan de vennootschap
 350
-39/40
+38/39
 Nr.
-BE 0400.358.194
+BE 0408.128.488
 VOL-inb 10
 INLICHTINGEN OVER DE OPLEIDINGEN VOOR DE WERKNEMERS TIJDENS HET BOEKJAAR
 Codes
@@ -2212,27 +2102,27 @@ Totaal van de formele voortgezette beroepsopleidingsinitiatieven ten
 laste van de werkgever
 Aantal betrokken werknemers
 5801
-2
+1
 5811
 1
 Aantal gevolgde opleidingsuren
 5802
-24
+8
 5812
-407
+2
 Nettokosten voor de vennootschap
 5803
-420
+139
 5813
-1.204
+16
 waarvan brutokosten rechtstreeks verbonden met de opleiding
 58031
-420
 58131
-1.204
 waarvan betaalde bijdragen en stortingen aan collectieve fondsen
 58032
+139
 58132
+16
 waarvan ontvangen tegemoetkomingen (in mindering)
 58033
 58133
@@ -2258,4 +2148,4 @@ Aantal gevolgde opleidingsuren
 Nettokosten voor de vennootschap
 5843
 5853
-40/40
+39/39

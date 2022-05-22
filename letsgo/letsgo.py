@@ -64,7 +64,7 @@ for n in companyNumbers:
         position +=1
         continue
     if position % 2:
-        time.sleep(1.5)
+        time.sleep(1)
     url = f'https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer={number}'
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'}, )
     webpage = urlopen(req).read()
